@@ -19,16 +19,9 @@ const destinationSchema = new mongoose.Schema({
     required: true
   },
   images: [String],
-  location: {
-    type: {
-      type: String,
-      enum: ['Point'],
-      default: 'Point'
-    },
-    coordinates: {
-      type: [Number],
-      required: true
-    }
+  googleMapLink: {
+    type: String,
+    required: true
   },
   hotels: [{
     name: String,
@@ -39,10 +32,10 @@ const destinationSchema = new mongoose.Schema({
   attractions: [{
     name: String,
     description: String,
-    bestTimeToVisit: String
+    bestTimeToVisit: String,
+    rating: Number,
+    priceRange: String
   }]
 }, { timestamps: true });
-
-destinationSchema.index({ location: '2dsphere' });
 
 export default mongoose.model('Destination', destinationSchema);
