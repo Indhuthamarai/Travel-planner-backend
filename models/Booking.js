@@ -10,7 +10,6 @@ const bookingSchema = new mongoose.Schema({
   tripType: { type: String, required: true },
   adults: { type: Number, required: true },
   children: { type: Number, default: 0 },
-  transportMode: { type: String, required: true },
   totalPrice: { type: Number, required: true },
   status: { type: String, default: 'confirmed' }
 }, { timestamps: true });

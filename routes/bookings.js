@@ -18,7 +18,6 @@ router.post('/', auth, async (req, res) => {
       tripType,
       adults,
       children,
-      transportMode,
       totalPrice,
       status: 'confirmed',
     });

@@ -120,6 +120,7 @@ export const destinationsData = [
     ]
   },
   {
+    
     destinationId: 1,
     state: "Tamil Nadu",
     name: "Ooty",
@@ -197,7 +198,7 @@ export const destinationsData = [
     name: "Thanjavur",
     description: "Thanjavur is known for its grand temples, including the Brihadeeswarar Temple, a UNESCO World Heritage site.",
     images: [
-      "https://lh5.googleusercontent.com/p/AF1QipMVmZFZRv5Wuk-LRvVGlL2TMsHsGCGGZ24zRtTY=w408-h509-k-no"
+      "https://lh5.googleusercontent.com/p/AF1QipMQhpnuO7dqWP2Pq4yam9HQZ9fiwvEQtUZvZPSS=w546-h240-k-no"
     ],
     googleMapLink: "https://www.google.com/maps/place/Thanjavur,+Tamil+Nadu/@10.7869994,79.1378274,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipMQhpnuO7dqWP2Pq4yam9HQZ9fiwvEQtUZvZPSS!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipMQhpnuO7dqWP2Pq4yam9HQZ9fiwvEQtUZvZPSS%3Dw195-h86-k-no!7i4624!8i2032!4m7!3m6!1s0x3baab89cea453039:0xe113da9b1f632be6!8m2!3d10.7869994!4d79.1378274!10e5!16zL20vMDFfemtt?entry=ttu&g_ep=EgoyMDI0MTEwNS4wIKXMDSoASAFQAw%3D%3D",
     hotels: [
@@ -485,7 +486,7 @@ export const destinationsData = [
     name: "Ziro",
     description: "Ziro is known for its scenic beauty, paddy fields, and the unique Apatani tribal culture.",
     images: [
-      "https://lh5.googleusercontent.com/p/AF1QipP59uDw0l6j8GscPksCJErtH066mZdsd3pijJwc=w408-h306-k-no"
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/96/be/8f/on-the-way-to-namdhapa.jpg?w=1400&h=500&s=1"
     ],
     googleMapLink: "https://www.google.com/maps/place/Ziro+791120/@27.5465894,93.7975543,14z/data=!3m1!4b1!4m6!3m5!1s0x3741612864517cd3:0xb9e78639773cc4ea!8m2!3d27.544912!4d93.8196686!16zL20vMDJfZzNw?entry=ttu&g_ep=EgoyMDI0MTEwNS4wIKXMDSoASAFQAw%3D%3D",
     hotels: [
@@ -509,7 +510,7 @@ export const destinationsData = [
     name: "Itanagar",
     description: "Itanagar is the capital of Arunachal Pradesh, known for its rich culture and beautiful surroundings.",
     images: [
-      "https://lh5.googleusercontent.com/p/AF1QipO4NDKIMG7l7f-PistxlvptcZKYFs1yIcR36dgS=w408-h358-k-no"
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/84/27/fb/ganga-lake.jpg?w=1400&h=500&s=1"
     ],
     googleMapLink: "https://www.google.com/maps/place/Itanagar/@27.0846035,93.59328,14z/data=!3m1!4b1!4m6!3m5!1s0x3744009342853ecd:0xdeec075656369e83!8m2!3d27.0843682!4d93.6053163!16zL20vMDNjamIx?entry=ttu&g_ep=EgoyMDI0MTEwNS4wIKXMDSoASAFQAw%3D%3D",
     hotels: [
@@ -764,7 +765,7 @@ export const destinationsData = [
       name: "Anjuna Beach",
       description: "Anjuna Beach is known for its vibrant flea market and stunning sunset views, making it a popular destination for tourists.",
       images: [
-        "https://lh5.googleusercontent.com/p/AF1QipM1g1g1g1g1g1g1g1g1g1g1g1g1g1g1g1g=w408-h272-k-no"
+        "https://lh5.googleusercontent.com/p/AF1QipNPSDFaQ_Drr0MW8HdCuuMy3sO3_3sBBNPHU7Mr=w408-h271-k-no"
       ],
       googleMapLink: "https://www.google.com/maps/place/Anjuna+Beach/@15.5521,73.7518,15z/data=!3m1!4b1!4m6!3m5!1s0x3bbfc0e1e1e1e1e1:0x1e1e1e1e1e1e1e1!8m2!3d15.5521!4d73.7518!16s%2Fg%2F11frsyn6kr?entry=ttu&g_ep=EgoyMDI0MTEwNS4wIKXMDSoASAFQAw%3D%3D",
       hotels: [
@@ -786,9 +787,9 @@ export const destinationsData = [
       name: "Fort Aguada",
       description: "Fort Aguada is a well-preserved 17th-century Portuguese fort that offers stunning views of the Arabian Sea.",
       images: [
-        "https://lh5.googleusercontent.com/p/AF1QipM1g1g1g1g1g1g1g1g1g1g1g1g1g1g1g1g1g=w408-h272-k-no"
+        "https://lh5.googleusercontent.com/p/AF1QipPyOQWVMSddUhXtlQSW_oL9tn-aRXXX2kooR9P5=w427-h240-k-no"
       ],
-      googleMapLink: "https://www.google.com/maps/place/Fort+Aguada/@15.5405,73.7518,15z/data=!3m1!4b1!4m6!3m5!1s0x3bbfc0e1e1e1e1e1:0x1e1e1e1e1e1e1e1!8m2!3d15.5405!4d73.7518!16s%2Fg%2F11frsyn6kr?entry=ttu&g_ep=EgoyMDI0MTEwNS4wIKXMDSoASAFQAw%3D%3D",
+      googleMapLink: "https://www.google.com/maps/place/Aguada+Fort/@15.4922571,73.7711713,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfc175c68cbd6b:0xa3837630b3697b1c!8m2!3d15.4922519!4d73.7737462!16zL20vMDk0MDNx?entry=ttu&g_ep=EgoyMDI0MTEwNi4wIKXMDSoASAFQAw%3D%3D",
       hotels: [
         { name: "Taj Fort Aguada", rating: 4.9, priceRange: "₹18000-₹30000", contact: "+91 9876543330" },
         { name: "Hotel Bonanza", rating: 4.6, priceRange: "₹7000-₹12000", contact: "+91 9876543331" },
@@ -808,9 +809,9 @@ export const destinationsData = [
     name: "Ahmedabad",
     description: "Ahmedabad is known for its rich history, vibrant culture, and beautiful architecture. It is a UNESCO World Heritage City.",
     images: [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Ahmedabad_Skyline.jpg/800px-Ahmedabad_Skyline.jpg"
+      "https://lh5.googleusercontent.com/p/AF1QipN_gT_jUmWvH7ifoPzwihy42tEKAbE1NdVq4TTE=w426-h240-k-no"
     ],
-    googleMapLink: "https://www.google.com/maps/place/Ahmedabad,+Gujarat/@23.0225,72.5713,12z/data=!3m1!4b1!4m6!3m5!1s0x395e84c6b1e85e9f:0x1e7b8c0f3c2c4a6f!8m2!3d23.0225!4d72.5713!16s%2Fg%2F11c1k2n2f7?entry=ttu",
+    googleMapLink: "https://www.google.com/maps/place/Ahmedabad,+Gujarat/@23.0202434,72.5797426,11z/data=!3m1!4b1!4m6!3m5!1s0x395e848aba5bd449:0x4fcedd11614f6516!8m2!3d23.022505!4d72.5713621!16zL20vMDFkODhj?entry=ttu&g_ep=EgoyMDI0MTEwNi4wIKXMDSoASAFQAw%3D%3D",
     hotels: [
       { name: "Taj Skyline", rating: 4.6, priceRange: "₹8000-₹15000", contact: "+91 9876543210" },
       { name: "Hyatt Regency", rating: 4.5, priceRange: "₹10000-₹20000", contact: "+91 9876543211" },
@@ -830,9 +831,9 @@ export const destinationsData = [
     name: "Vadodara",
     description: "Vadodara, also known as Baroda, is famous for its palaces, gardens, and rich cultural heritage.",
     images: [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Vadodara_Maharaja_Sayajirao_Gaekwad_University.jpg/800px-Vadodara_Maharaja_Sayajirao_Gaekwad_University.jpg"
+      "https://lh5.googleusercontent.com/p/AF1QipOIypXvIT11uD0O_C2NE0pECCmJe9sD7ZnBv6L_=w408-h544-k-no"
     ],
-    googleMapLink: "https://www.google.com/maps/place/Vadodara,+Gujarat/@22.3072,73.1812,12z/data=!3m1!4b1!4m6!3m5!1s0x395f8e5a3e0e9dbd:0x1b0b0b0b0b0b0b0b!8m2!3d22.3072!4d73.1812!16s%2Fg%2F11c1k2n2f8?entry=ttu",
+    googleMapLink: "https://www.google.com/maps/place/Vadodara,+Gujarat/@22.3222406,73.0906841,12z/data=!3m1!4b1!4m6!3m5!1s0x395fc8ab91a3ddab:0xac39d3bfe1473fb8!8m2!3d22.3071588!4d73.1812187!16zL20vMDJrZnhr?entry=ttu&g_ep=EgoyMDI0MTEwNi4wIKXMDSoASAFQAw%3D%3D",
     hotels: [
       { name: "Taj Gateway", rating: 4.5, priceRange: "₹8000-₹15000", contact: "+91 9876543214" },
       { name: "Marriott Hotel", rating: 4.6, priceRange: "₹10000-₹20000", contact: "+91 9876543215" },
@@ -852,9 +853,9 @@ export const destinationsData = [
     name: "Surat",
     description: "Surat is known for its diamond industry, textile markets, and rich cultural heritage.",
     images: [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Surat_Skyline.jpg/800px-Surat_Skyline.jpg"
+      "https://lh5.googleusercontent.com/p/AF1QipMHG5gJpbwXbR0oWBycAEjdQ2DAoEzbScM12WaJ=w520-h240-k-no"
     ],
-    googleMapLink: "https://www.google.com/maps/place/Surat,+Gujarat/@21.1702,72.8311,12z/data=!3m1!4b1!4m6!3m5!1s0x395f8e5a3e0e9dbd:0x1b0b0b0b0b0b0b0b!8m2!3d21.1702!4d72.8311!16s%2Fg%2F11c1k2n2f9?entry=ttu",
+    googleMapLink: "https://www.google.com/maps/place/Surat,+Gujarat/@21.1594406,72.6574822,11z/data=!3m1!4b1!4m6!3m5!1s0x3be04e59411d1563:0xfe4558290938b042!8m2!3d21.1702401!4d72.8310607!16zL20vMDFoMWhu?entry=ttu&g_ep=EgoyMDI0MTEwNi4wIKXMDSoASAFQAw%3D%3D",
     hotels: [
       { name: "The Gateway Hotel", rating: 4.5, priceRange: "₹8000-₹15000", contact: "+91 9876543218" },
       { name: "Courtyard by Marriott", rating: 4.6, priceRange: "₹10000-₹20000", contact: "+91 9876543219" },
@@ -874,9 +875,9 @@ export const destinationsData = [
     name: "Rajkot",
     description: "Rajkot is known for its rich history, cultural heritage, and as the birthplace of Mahatma Gandhi.",
     images: [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Rajkot_Skyline.jpg/800px-Rajkot_Skyline.jpg"
+      "https://lh5.googleusercontent.com/p/AF1QipNEyLyloBdcrA_xGteYslIBDktyJSzXxVmfP9R7=w426-h240-k-no"
     ],
-    googleMapLink: "https://www.google.com/maps/place/Rajkot,+Gujarat/@22.3039,70.8022,12z/data=!3m1!4b1!4m6!3m5!1s0x395f8e5a3e0e9dbd:0x1b0b0b0b0b0b0b0b!8m2!3d22.3039!4d70 .8022!16s%2Fg%2F11c1k2n2f0?entry=ttu",
+    googleMapLink: "https://www.google.com/maps/place/Rajkot,+Gujarat/@22.273625,70.7388942,12z/data=!3m1!4b1!4m6!3m5!1s0x3959c98ac71cdf0f:0x76dd15cfbe93ad3b!8m2!3d22.3038945!4d70.8021599!16zL20vMDNnbWxx?entry=ttu&g_ep=EgoyMDI0MTEwNi4wIKXMDSoASAFQAw%3D%3D",
     hotels: [
       { name: "Hotel Classique", rating: 4.5, priceRange: "₹5000-₹10000", contact: "+91 9876543222" },
       { name: "Pride Hotel", rating: 4.6, priceRange: "₹8000-₹15000", contact: "+91 9876543223" },
@@ -896,9 +897,9 @@ export const destinationsData = [
     name: "Dwarka",
     description: "Dwarka is a sacred city known for its ancient temples and beautiful coastal views, believed to be the kingdom of Lord Krishna.",
     images: [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Dwarka_Temple.jpg/800px-Dwarka_Temple.jpg"
+      "https://lh5.googleusercontent.com/p/AF1QipMzQfTg86kVng63FKWPRmAxpdn3xKZfOXL3xIuM=w408-h272-k-no"
     ],
-    googleMapLink: "https://www.google.com/maps/place/Dwarka,+Gujarat/@22.2402,68.9674,12z/data=!3m1!4b1!4m6!3m5!1s0x395f8e5a3e0e9dbd:0x1b0b0b0b0b0b0b0b!8m2!3d22.2402!4d68.9674!16s%2Fg%2F11c1k2n2f1?entry=ttu",
+    googleMapLink: "https://www.google.com/maps/place/Dwarka,+Gujarat/@22.2467535,68.9487939,14z/data=!3m1!4b1!4m6!3m5!1s0x39569c266399e37b:0xb5866e461a106e0a!8m2!3d22.2441975!4d68.9684562!16zL20vMDQ1ZGdy?entry=ttu&g_ep=EgoyMDI0MTEwNi4wIKXMDSoASAFQAw%3D%3D",
     hotels: [
       { name: "Dwarkadhish Lords Eco Inn", rating: 4.5, priceRange: "₹6000-₹12000", contact: "+91 9876543226" },
       { name: "Hotel Gomti", rating: 4.6, priceRange: "₹5000-₹10000", contact: "+91 9876543227" },
@@ -918,7 +919,7 @@ export const destinationsData = [
     name: "Gurugram",
     description: "Gurugram, also known as Gurgaon, is a modern city known for its skyscrapers, shopping malls, and vibrant nightlife.",
     images: [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Gurgaon_Skyline.jpg/800px-Gurgaon_Skyline.jpg"
+      "https://lh5.googleusercontent.com/p/AF1QipPKAkdhgO0a3GkqSakUeNz31nXGqRajkkXyuVTO=w408-h272-k-no"
     ],
     googleMapLink: "https://www.google.com/maps/place/Gurugram,+Haryana/@28.4595,77.0266,12z/data=!3m1!4b1!4m6!3m5!1s0x390cfc3e4b4e8f8d:0x1e7b8c0f3c2c4a6f!8m2!3d28.4595!4d77.0266!16s%2Fg%2F11c1k2n2f7?entry=ttu",
     hotels: [
@@ -940,7 +941,7 @@ export const destinationsData = [
     name: "Faridabad",
     description: "Faridabad is known for its industrial development and is a major hub for manufacturing and commerce.",
     images: [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Faridabad_Skyline.jpg/800px-Faridabad_Skyline.jpg"
+      "https://lh5.googleusercontent.com/p/AF1QipOWBJZyXtv7_TmZBjwVs5As1EQw7FGm5T10jkgD=w408-h306-k-no"
     ],
     googleMapLink: "https://www.google.com/maps/place/Faridabad,+Haryana/@28.4082,77.3172,12z/data=!3m1!4b1!4m6!3m5!1s0x390cfc3e4b4e8f8d:0x1e7b8c0f3c2c4a6f!8m2!3d28.4082!4d77.3172!16s%2Fg%2F11c1k2n2f8?entry=ttu",
     hotels: [
@@ -962,7 +963,7 @@ export const destinationsData = [
     name: "Ambala",
     description: "Ambala is known for its rich history, military presence, and as a major trade center.",
     images: [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Ambala_Skyline.jpg/800px-Ambala_Skyline.jpg"
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/45/cc/73/divine-experience.jpg?w=500&h=400&s=1"
     ],
     googleMapLink: "https://www.google.com/maps/place/Ambala,+Haryana/@30.3784,76.7832,12z/data=!3m1!4b1!4m6!3m5!1s0x390f9c3e4b4e8f8d:0x1e7b8c0f3c2c4a6f!8m2!3d30.3784!4d76.7832!16s%2Fg%2F11c1k2n2f9?entry=ttu",
     hotels: [
@@ -984,7 +985,7 @@ export const destinationsData = [
     name: "Panchkula",
     description: "Panchkula is known for its planned infrastructure, parks, and proximity to Chandigarh.",
     images: [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Panchkula_Skyline.jpg/800px-Panchkula_Skyline.jpg"
+      "https://lh5.googleusercontent.com/p/AF1QipPf9NtkPBVwgtqibZ0OdhxPbvgi7p8I-VSYKD0k=w408-h306-k-no"
     ],
     googleMapLink: "https://www.google.com/maps/place/Panchkula,+Haryana/@30.6954,76.8550,12z/data=!3m1!4b1!4m6!3m5!1s0x390f9c3e4b4e8f8d:0x1e7b8c0f3c2c4a6f!8m2!3d30.6954!4d76.8550!16s%2Fg%2F11c1k2n2f0?entry=ttu",
     hotels: [
@@ -1006,7 +1007,7 @@ export const destinationsData = [
     name: "Sonipat",
     description: "Sonipat is known for its historical significance and modern educational institutions.",
     images: [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Sonipat_Skyline.jpg/800px-Sonipat_Skyline.jpg"
+      "https://lh5.googleusercontent.com/p/AF1QipOa8b13y7tNc5d8gc2O-wMF7c9KHxOM9T3-aw9S=w408-h306-k-no"
     ],
     googleMapLink: "https://www.google.com/maps/place/Sonipat,+Haryana/@28.9984,77.0179,12z/data=!3m1!4b1!4m6!3m5!1s0x390cfc3e4b4e8f8d:0x1e7b8c0f3c2c4a6f!8m2!3d28.9984!4d77.0179!16s%2Fg%2F11c1k2n2f1?entry=ttu",
     hotels: [
@@ -1023,34 +1024,12 @@ export const destinationsData = [
     ]
   },
   {
-    destinationId: 6,
-    state: "Haryana",
-    name: "Panchkula",
-    description: "Panchkula is known for its planned infrastructure, parks, and proximity to Chandigarh. It offers a mix of natural beauty and modern amenities.",
-    images: [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Panchkula_Skyline.jpg/800px-Panchkula_Skyline.jpg"
-    ],
-    googleMapLink: "https://www.google.com/maps/place/Panchkula,+Haryana/@30.6954,76.8550,12z/data=!3m1!4b1!4m6!3m5!1s0x390f9c3e4b4e8f8d:0x1e7b8c0f3c2c4a6f!8m2!3d30.6954!4d76.8550!16s%2Fg%2F11c1k2n2f0?entry=ttu",
-    hotels: [
-      { name: "Hotel Park Plaza", rating: 4.5, priceRange: "₹6000-₹12000", contact: "+91 9876543222" },
-      { name: "The Lalit Chandigarh", rating: 4.6, priceRange: "₹12000-₹25000", contact: "+91 9876543223" },
-      { name: "Hotel Ramada", rating: 4.4, priceRange: "₹8000-₹15000", contact: "+91 9876543224" },
-      { name: "Hotel City Heart", rating: 4.3, priceRange: "₹4000-₹8000", contact: "+91 9876543225" }
-    ],
-    attractions: [
-      { name: "Cactus Garden", description: "A unique garden featuring a variety of cacti and succulents.", bestTimeToVisit: "Year-round", rating: 4.5, priceRange: "Free" },
-      { name: "Mansa Devi Temple", description: "A famous temple dedicated to Goddess Mansa Devi, located on a hilltop.", bestTimeToVisit: "Year-round", rating: 4.6, priceRange: "Free" },
-      { name: "Pinjore Gardens", description: "Beautiful Mughal-style gardens perfect for picnics and relaxation.", bestTimeToVisit: "November to March", rating: 4.7, priceRange: "₹20" },
-      { name: "Sukhna Lake", description: "A picturesque lake ideal for boating and leisurely walks.", bestTimeToVisit: "Evening", rating: 4.8, priceRange: "Free" }
-    ]
-  },
-  {
     destinationId: 1,
     state: "Himachal Pradesh",
     name: "Shimla",
     description: "Shimla, the capital city of Himachal Pradesh, is known for its colonial architecture, scenic views, and pleasant weather.",
     images: [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Shimla_Skyline.jpg/800px-Shimla_Skyline.jpg"
+      "https://lh5.googleusercontent.com/p/AF1QipMv6TQ5hRvOQba8uAFbmk-cPEkAEnMvs7ianRsh=w408-h286-k-no"
     ],
     googleMapLink: "https://www.google.com/maps/place/Shimla,+Himachal+Pradesh/@31.1048,77.1704,12z/data=!3m1!4b1!4m6!3m5!1s0x3903c0c1d1d1d1d1:0x1e7b8c0f3c2c4a6f!8m2!3d31.1048!4d77.1704!16s%2Fg%2F11c1k2n2f7?entry=ttu",
     hotels: [
@@ -1072,7 +1051,7 @@ export const destinationsData = [
     name: "Manali",
     description: "Manali is a popular hill station known for its stunning landscapes, adventure sports, and vibrant culture.",
     images: [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Manali_Skyline.jpg/800px-Manali_Skyline.jpg"
+      "https://lh5.googleusercontent.com/p/AF1QipOY0Qru3nuqKvJswwN3bV3rvPAMP3dCq2BhrMiY=w408-h306-k-no"
     ],
     googleMapLink: "https://www.google.com/maps/place/Manali,+Himachal+Pradesh/@32.2394,77.1888,12z/data=!3m1!4b1!4m6!3m5!1s0x3905c1e4f4f4f4f4:0x1e7b8c0f3c2c4a6f!8m2!3d32.2394!4d77.1888!16s%2Fg%2F11c1k2n2f8?entry=ttu",
     hotels: [
@@ -1094,7 +1073,7 @@ export const destinationsData = [
     name: "Dharamshala",
     description: "Dharamshala is known for its Tibetan culture, monasteries, and stunning views of the Dhauladhar range.",
     images: [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Dharamshala_Skyline.jpg/800px-Dharamshala_Skyline.jpg"
+      "https://lh5.googleusercontent.com/p/AF1QipP2xbLNsvhS1CCad-FwCSCt-VU5EzpYsBrbtFQP=w426-h240-k-no"
     ],
     googleMapLink: "https://www.google.com/maps/place/Dharamshala,+Himachal+Pradesh/@32.2194,76.3234,12z/data=!3m1!4b1!4m6!3m5!1s0x3905c1e4f4f4f4f4:0x1e7b8c0f3c2c4a6f!8m2!3d32.2194!4d76.3234!16s%2Fg%2F11c1k2n2f9?entry=ttu",
     hotels: [
@@ -1116,7 +1095,7 @@ export const destinationsData = [
     name: "Kullu",
     description: "Kullu is famous for its lush green valleys, adventure sports, and vibrant culture, especially during the Kullu Dussehra festival.",
     images: [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Kullu_Valley.jpg/800px-Kullu_Valley.jpg"
+      "https://lh5.googleusercontent.com/p/AF1QipMTOEIvCHUcFLztoLa6ELYqmSBjzpyozbxIzK9w=w408-h241-k-no"
     ],
     googleMapLink: "https://www.google.com/maps/place/Kullu,+Himachal+Pradesh/@31.9645,77.1150,12z/data=!3m1!4b1!4m6!3m5!1s0x3905c1e4f4f4f4f4:0x1e7b8c0f3c2c4a6f!8m2!3d31.9645!4d77.1150!16s%2Fg%2F11c1k2n2f9?entry=ttu",
     hotels: [
@@ -1138,7 +1117,7 @@ export const destinationsData = [
     name: "Spiti Valley",
     description: "Spiti Valley is known for its stunning landscapes, ancient monasteries, and unique culture. It's a paradise for adventure seekers and nature lovers.",
     images: [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Spiti_Valley.jpg/800px-Spiti_Valley.jpg"
+      "https://lh5.googleusercontent.com/p/AF1QipOiRvil6X8-h5tRUI1wobzBgAiQsNrGnRRpYDOd=w408-h272-k-no"
     ],
     googleMapLink: "https://www.google.com/maps/place/Spiti+Valley/@32.0000,78.0000,12z/data=!3m1!4b1!4m6!3m5!1s0x3905c1e4f4f4f4f4:0x1e7b8c0f3c2c4a6f!8m2!3d32.0000!4d78.0000!16s%2Fg%2F11c1k2n2f9?entry=ttu",
     hotels: [
@@ -1160,7 +1139,7 @@ export const destinationsData = [
     name: "Khajjiar",
     description: "Khajjiar, often referred to as the 'Mini Switzerland of India,' is known for its lush green meadows, dense forests, and stunning landscapes.",
     images: [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Khajjiar_Meadow.jpg/800px-Khajjiar_Meadow.jpg"
+      "https://lh5.googleusercontent.com/p/AF1QipNyFuuqrTNem5DfmrfIwOwgfpFZGBHsP0LAjUu1=w480-h240-k-no"
     ],
     googleMapLink: "https://www.google.com/maps/place/Khajjiar,+Himachal+Pradesh/@32.5362,76.0861,12z/data=!3m1!4b1!4m6!3m5!1s0x3905c1e4f4f4f4f4:0x1e7b8c0f3c2c4a6f!8m2!3d32.5362!4d76.0861!16s%2Fg%2F11c1k2n2f9?entry=ttu",
     hotels: [
@@ -1182,7 +1161,7 @@ export const destinationsData = [
     name: "Ranchi",
     description: "Ranchi, the capital city of Jharkhand, is known for its beautiful waterfalls, lush greenery, and vibrant culture. It serves as a gateway to several natural attractions.",
     images: [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Ranchi_Skyline.jpg/800px-Ranchi_Skyline.jpg"
+      "https://lh5.googleusercontent.com/p/AF1QipNzpw9w5170-MR_VXFn8yw-aFpLRCiZIUPKOHZ4=w426-h240-k-no"
     ],
     googleMapLink: "https://www.google.com/maps/place/Ranchi,+Jharkhand/@23.3569,85.3340,12z/data=!3m1!4b1!4m6!3m5!1s0x39f1a0c0f4f4f4f4:0x1e7b8c0f3c2c4a6f!8m2!3d23.3569!4d85.3340!16s%2Fg%2F11c1k2n2f0?entry=ttu",
     hotels: [
@@ -1204,7 +1183,7 @@ export const destinationsData = [
     name: "Jamshedpur",
     description: "Jamshedpur, known as the Steel City, is famous for its industrial heritage, beautiful parks, and lakes. It offers a blend of urban and natural attractions.",
     images: [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Jamshedpur_Skyline.jpg/800px-Jamshedpur_Skyline.jpg"
+      "https://lh5.googleusercontent.com/p/AF1QipOXIj0JbSLQjXB9-BmoDmJiCXuuw9DHXXAuLo2R=w408-h275-k-no"
     ],
     googleMapLink: "https://www.google.com/maps/place/Jamshedpur,+Jharkhand/@22.8046,86.2026,12z/data=!3m1!4b1!4m6!3m5!1s0x39f1a0c0f4f4f4f4:0x1e7b8c0f3c2c4a6f!8m2!3d22.8046!4d86.2026!16s%2Fg%2F11c1k2n2f1?entry=ttu",
     hotels: [
@@ -1226,7 +1205,7 @@ export const destinationsData = [
     name: "Dhanbad",
     description: "Dhanbad, known as the 'Coal Capital of India,' is famous for its coal mines and rich cultural heritage. It offers a mix of industrial and natural attractions.",
     images: [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Dhanbad_Skyline.jpg/800px-Dhanbad_Skyline.jpg"
+      "https://lh5.googleusercontent.com/p/AF1QipOeztSIzcikh1xAyGmSEIthvNBCCMYhIcmrNmC3=w408-h495-k-no"
     ],
     googleMapLink: "https://www.google.com/maps/place/Dhanbad,+Jharkhand/@23.7957,86.4304,12z/data=!3m1!4b1!4m6!3m5!1s0x39f1a0c0f4f4f4f4:0x1e7b8c0f3c2c4a6f!8m2!3d23.7957!4d86.4304!16s%2Fg%2F11c1k2n2f2?entry=ttu",
     hotels: [
@@ -1248,7 +1227,7 @@ export const destinationsData = [
     name: "Bokaro",
     description: "Bokaro, known for its steel plant, is a city with beautiful parks and lakes, offering a blend of industrial and natural attractions.",
     images: [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Bokaro_Skyline.jpg/800px-Bokaro_Skyline.jpg"
+      "https://lh5.googleusercontent.com/p/AF1QipOuAO0IGJxj80ZIF4h4HndcDMiMmkwYvTAfpV0=w408-h306-k-no"
     ],
     googleMapLink: "https://www.google.com/maps/place/Bokaro+Steel+City,+Jharkhand/@23.1518,86.1519,12z/data=!3m1!4b1!4m6!3m5!1s0x39f1a0c0f4f4f4f4:0x1e7b8c0f3c2c4a6f!8m2!3d23.1518!4d86.1519!16s%2Fg%2F11c1k2n2f3?entry=ttu",
     hotels: [
@@ -1270,7 +1249,7 @@ export const destinationsData = [
     name: "Giridih",
     description: "Giridih is known for its scenic beauty, hills, and temples. It offers a peaceful environment and is a great destination for nature lovers and spiritual seekers.",
     images: [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Giridih_Skyline.jpg/800px-Giridih_Skyline.jpg"
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/4d/f1/d5/usri-waterfall.jpg?w=1400&h=500&s=1"
     ],
     googleMapLink: "https://www.google.com/maps/place/Giridih,+Jharkhand/@24.1952,86.3034,12z/data=!3m1!4b1!4m6!3m5!1s0x39f1a0c0f4f4f4f4:0x1e7b8c0f3c2c4a6f!8m2!3d24.1952!4d86.3034!16s%2Fg%2F11c1k2n2f4?entry=ttu",
     hotels: [
@@ -1292,7 +1271,7 @@ export const destinationsData = [
     name: "Hazaribagh",
     description: "Hazaribagh is known for its picturesque landscapes, wildlife sanctuary, and historical significance. It offers a serene environment for nature lovers and adventure enthusiasts.",
     images: [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Hazaribagh_Skyline.jpg/800px-Hazaribagh_Skyline.jpg"
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/b7/cb/64/photo1jpg.jpg?w=300&h=-1&s=1"
     ],
     googleMapLink: "https://www.google.com/maps/place/Hazaribagh,+Jharkhand/@23.9984,85.5862,12z/data=!3m1!4b1!4m6!3m5!1s0x39f1a0c0f4f4f4f4:0x1e7b8c0f3c2c4a6f!8m2!3d23.9984!4d85.5862!16s%2Fg%2F11c1k2n2f5?entry=ttu",
     hotels: [
@@ -1314,7 +1293,7 @@ export const destinationsData = [
     name: "Bengaluru",
     description: "Bengaluru, the capital city of Karnataka, is known as the 'Silicon Valley of India.' It boasts a vibrant culture, lush parks, and a thriving tech industry.",
     images: [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bangalore_Skyline.jpg/800px-Bangalore_Skyline.jpg"
+      "https://lh5.googleusercontent.com/p/AF1QipPz_1tNzJsMmm3EfrKGJneK8WNp_MYrcDn4r_zI=w533-h240-k-no"
     ],
     googleMapLink: "https://www.google.com/maps/place/Bengaluru,+Karnataka/@12.9716,77.5946,12z/data=!3m1!4b1!4m6!3m5!1s0x3bae168b6c5e7f2b:0x1e7b8c0f3c2c4a6f!8m2!3d12.9716!4d77.5946!16s%2Fg%2F11c1k2n2f7?entry=ttu",
     hotels: [
@@ -1336,7 +1315,7 @@ export const destinationsData = [
     name: "Mysuru",
     description: "Mysuru, known for its rich heritage and culture, is famous for the Mysore Palace, vibrant markets, and the Dasara festival.",
     images: [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Mysore_Palace.jpg/800px-Mysore_Palace.jpg"
+      "https://lh5.googleusercontent.com/p/AF1QipNaF_5-aVaUWQsJ5kAW3rZBfL9R3MVHLnuPnD1z=w533-h240-k-no"
     ],
     googleMapLink: "https://www.google.com/maps/place/Mysuru,+Karnataka/@12.2958,76.6393,12z/data=!3m1!4b1!4m6!3m5!1s0x3bae14c7b1c5f5b7:0x1e7b8c0f3c2c4a6f!8m2!3d12.2958!4d76.6393!16s%2Fg%2F11c1k2n2f8?entry=ttu",
     hotels: [
@@ -1358,7 +1337,7 @@ export const destinationsData = [
     name: "Hampi",
     description: "Hampi, a UNESCO World Heritage Site, is known for its ancient temples, ruins, and stunning landscapes, making it a paradise for history enthusiasts.",
     images: [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Hampi_Temple.jpg/800px-Hampi_Temple.jpg"
+      "https://lh5.googleusercontent.com/p/AF1QipPyH9gfld0uCh6z50OcFG3grFHgXkUKAW6aI0JD=w429-h240-k-no"
     ],
     googleMapLink: "https://www.google.com/maps/place/Hampi,+Karnataka/@15.3350,76.4600,12z/data=!3m1!4b1!4m6!3m5!1s0x3bbf1c1c0f4f4f4f:0x1e7b8c0f3c2c4a6f!8m2!3d15.3350!4d76.4600!16s%2Fg%2F11c1k2n2f9?entry=ttu",
     hotels: [
@@ -1380,7 +1359,7 @@ export const destinationsData = [
     name: "Coorg",
     description: "Coorg, also known as Kodagu, is famous for its coffee plantations, lush greenery, and pleasant weather, making it a popular hill station.",
     images: [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Coorg.jpg/800px-Coorg.jpg"
+      "https://lh5.googleusercontent.com/p/AF1QipPPqbWVw3ssObZCFJWGBJako_PzCvbjSwep6bLl=w408-h306-k-no"
     ],
     googleMapLink: "https://www.google.com/maps/place/Coorg ,+Karnataka/@12.4275,75.7300,12z/data=!3m1!4b1!4m6!3m5!1s0x3ba4c1c0f4f4f4f4:0x1e7b8c0f3c2c4a6f!8m2!3d12.4275!4d75.7300!16s%2Fg%2F11c1k2n2f0?entry=ttu",
     hotels: [
@@ -1402,7 +1381,7 @@ export const destinationsData = [
     name: "Gokarna",
     description: "Gokarna is a coastal town known for its beautiful beaches, temples, and laid-back atmosphere, making it a popular destination for both pilgrims and beach lovers.",
     images: [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Gokarna_Beach.jpg/800px-Gokarna_Beach.jpg"
+      "https://lh5.googleusercontent.com/p/AF1QipMeFkAUvYqBxanG4ZD5ySz-O85jgcqaOPf_JGBH=w408-h550-k-no"
     ],
     googleMapLink: "https://www.google.com/maps/place/Gokarna,+Karnataka/@14.5500,74.3290,12z/data=!3m1!4b1!4m6!3m5!1s0x3badf1c0f4f4f4f4:0x1e7b8c0f3c2c4a6f!8m2!3d14.5500!4d74.3290!16s%2Fg%2F11c1k2n2f1?entry=ttu",
     hotels: [
@@ -1424,7 +1403,7 @@ export const destinationsData = [
     name: "Badami",
     description: "Badami is known for its rock-cut temples and stunning landscapes, making it a significant historical and archaeological site.",
     images: [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Badami_Caves.jpg/800px-Badami_Caves.jpg"
+      "https://lh5.googleusercontent.com/p/AF1QipNPQ8Q6r6p8xqxxsEZPifwhJbJKsEH9QaEjiuNX=w533-h240-k-no"
     ],
     googleMapLink: "https://www.google.com/maps/place/Badami,+Karnataka/@15.9250,75.6300,12z/data=!3m1!4b1!4m6!3m5!1s0x3bbf1c1c0f4f4f4f:0x1e7b8c0f3c2c4a6f!8m2!3d15.9250!4d75.6300!16s%2Fg%2F11c1k2n2f2?entry=ttu",
     hotels: [
@@ -1446,7 +1425,7 @@ export const destinationsData = [
     name: "Bhopal",
     description: "Bhopal, the capital city of Madhya Pradesh, is known for its rich history, beautiful lakes, and vibrant culture. It features a blend of modern and traditional architecture.",
     images: [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Bhopal_Lake.jpg/800px-Bhopal_Lake.jpg"
+      "https://lh5.googleusercontent.com/p/AF1QipNZgX3o6iDnNX9V2iqz7oxrltZxpfveAu07FEeE=w408-h307-k-no"
     ],
     googleMapLink: "https://www.google.com/maps/place/Bhopal,+Madhya+Pradesh/@23.2599,77.4126,12z/data=!3m1!4b1!4m6!3m5!1s0x3962f3f5f5f5f5f5:0x1e7b8c0f3c2c4a6f!8m2!3d23.2599!4d77.4126!16s%2Fg%2F11c1k2n2f8?entry=ttu",
     hotels: [
@@ -1468,7 +1447,7 @@ export const destinationsData = [
     name: "Khajuraho",
     description: "Khajuraho is famous for its stunning temples adorned with intricate erotic sculptures and is a UNESCO World Heritage Site.",
     images: [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Khajuraho_Temples.jpg/800px-Khajuraho_Temples.jpg"
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/da/3c/3a/vue-d-ensemble-du-temple.jpg?w=1400&h=500&s=1"
     ],
     googleMapLink: "https://www.google.com/maps/place/Khajuraho,+Madhya+Pradesh/@24.8340,79.9192,12z/data=!3m1!4b1!4m6!3m5!1s0x3962f3f5f5f5f5f5:0x1e7b8c0f3c2c4a6f!8m2!3d24.8340!4d79.9192!16s%2Fg%2F11c1k2n2f9?entry=ttu",
     hotels: [
@@ -1490,7 +1469,7 @@ export const destinationsData = [
     name: "Ujjain",
     description: "Ujjain is one of the seven Mukti Sthals and is famous for the Kumbh Mela, ancient temples, and its significance in Hindu mythology.",
     images: [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Ujjain_Skyline.jpg/800px-Ujjain_Skyline.jpg"
+      "https://lh5.googleusercontent.com/p/AF1QipOLbcq9VMIJrC2MvG0PZeKh2nZPgAJagvb1dL2_=w526-h240-k-no"
     ],
     googleMapLink: "https://www.google.com/maps/place/Ujjain,+Madhya+Pradesh/@23.1787,75.7789,12z/data=!3m1!4b1!4m6!3m5!1s0x3962f3f5f5f5f5f5:0x1e7b8c0f3c2c4a6f!8m2!3d23.1787!4d75.7789!16s%2Fg%2F11c1k2n2f6?entry=ttu",
     hotels: [
@@ -1512,7 +1491,7 @@ export const destinationsData = [
     name: "Pachmarhi",
     description: "Pachmarhi, known as the 'Queen of Satpura,' is a hill station famous for its lush greenery, waterfalls, and ancient caves and historical things.",
     images: [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Pachmarhi.jpg/800px-Pachmarhi.jpg"
+      "https://lh5.googleusercontent.com/p/AF1QipPwPOVD2fT85G7pWrMskvPL9fYcStpm44yUMfxh=w408-h306-k-no"
     ],
     googleMapLink: "https://www.google.com/maps/place/Pachmarhi,+Madhya+Pradesh/@22.4614,78.3992,12z/data=!3m1!4b1!4m6!3m5!1s0x3962f3f5f5f5f5f5:0x1e7b8c0f3c2c4a6f!8m2!3d22.4614!4d78.3992!16s%2Fg%2F11c1k2n2f7?entry=ttu",
     hotels: [
@@ -1534,7 +1513,7 @@ export const destinationsData = [
     name: "Mandu",
     description: "Mandu is a historical town known for its stunning architecture, palaces, and beautiful landscapes, making it a popular destination for history enthusiasts.",
     images: [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Mandu.jpg/800px-Mandu.jpg"
+      "https://lh5.googleusercontent.com/p/AF1QipOGVO4G-B7rfA1fG7Bl-8PP3xwFvObKbtiMRj0e=w408-h544-k-no"
     ],
     googleMapLink: "https://www.google.com/maps/place/Mandu,+Madhya+Pradesh/@22.3662,75.3662,12z/data=!3m1!4b1!4m6!3m5!1s0x3962f3f5f5f5f5f5:0x1e7b8c0f3c2c4a6f!8m2!3d22.3662!4d75.3662!16s%2Fg%2F11c1k2n2f8?entry=ttu",
     hotels: [
@@ -1556,7 +1535,7 @@ export const destinationsData = [
     name: "Orchha",
     description: "Orchha is a historical town known for its magnificent palaces, temples, and the scenic Betwa River, making it a popular destination for history and nature lovers.",
     images: [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Orchha_Temples.jpg/800px-Orchha_Temples.jpg"
+      "https://lh5.googleusercontent.com/p/AF1QipPbIrwH657CVw-TbQ2evg09Z5OPKw2TBkx0xxSy=w408-h330-k-no"
     ],
     googleMapLink: "https://www.google.com/maps/place/Orchha,+Madhya+Pradesh/@25.3089,78.6405,12z/data=!3m1!4b1!4m6!3m5!1s0x3962f3f5f5f5f5f5:0x1e7b8c0f3c2c4a6f!8m2!3d25.3089!4d78.6405!16s%2Fg%2F11c1k2n2f7?entry=ttu",
     hotels: [
@@ -1578,7 +1557,7 @@ export const destinationsData = [
     name: "Mumbai",
     description: "Mumbai, the financial capital of India, is known for its vibrant culture, Bollywood film industry, and iconic landmarks.",
     images: [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Mumbai_Skyline.jpg/800px-Mumbai_Skyline.jpg"
+      "https://lh5.googleusercontent.com/p/AF1QipMr_hY2DSPL7RH2uvip6xLFcihkPowpab-qaEk=w408-h509-k-no"
     ],
     googleMapLink: "https://www.google.com/maps/place/Mumbai,+Maharashtra/@19.0760,72.8777,12z/data=!3m1!4b1!4m6!3m5!1s0x3be7c74f5f5f5f5f:0x1e7b8c0f3c2c4a6f!8m2!3d19.0760!4d72.8777!16s%2Fg%2F11c1k2n2f8?entry=ttu",
     hotels: [
@@ -1600,7 +1579,7 @@ export const destinationsData = [
     name: "Pune",
     description: "Pune, known as the 'Oxford of the East,' is famous for its educational institutions, rich history, and vibrant culture.",
     images: [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Pune_Skyline.jpg/800px-Pune_Skyline.jpg"
+      "https://lh5.googleusercontent.com/p/AF1QipOj7TE-rDt2dnxaEL4vKR7UoRrBsV055tZq0PAI=w418-h240-k-no"
     ],
     googleMapLink: "https://www.google.com/maps/place/Pune,+Maharashtra/@18.5204,73.8567,12z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c1f5f5f5f5f5:0x1e7b8c0f3c2c4a6f!8m2!3d18.5204!4d73.8567!16s%2Fg%2F11c1k2n2f9?entry=ttu",
     hotels: [
@@ -1622,7 +1601,7 @@ export const destinationsData = [
     name: "Nashik",
     description: "Nashik is known as the 'Wine Capital of India' and is famous for its vineyards, temples, and the Kumbh Mela.",
     images: [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Nashik_Wine_Capital.jpg/800px-Nashik_Wine_Capital.jpg"
+      "https://lh5.googleusercontent.com/p/AF1QipO-CpFlKvB_SPHyD_Q6fdqqDjCtaN-kz9tRvA0=w408-h272-k-no"
     ],
     googleMapLink: "https://www.google.com/maps/place/Nashik,+Maharashtra/@19.9975,73.7898,12z/data=!3m1!4b1!4m6!3m5!1s0x3be7c74f5f5f5f5f:0x1e7b8c0f3c2c4a6f!8m2!3d19.9975!4d73.7898!16s%2Fg%2F11c1k2n2f8?entry=ttu",
     hotels: [
@@ -1644,7 +1623,7 @@ export const destinationsData = [
     name: "Aurangabad",
     description: "Aurangabad is known for its historical monuments, including the Ajanta and Ellora Caves, which are UNESCO World Heritage Sites.",
     images: [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Aurangabad_Caves.jpg/800px-Aurangabad_Caves.jpg"
+      "https://lh5.googleusercontent.com/p/AF1QipOcbXMheViaQVcprl_941fwwgfO3wOVOwx1br0r=w426-h240-k-no"
     ],
     googleMapLink: "https://www.google.com/maps/place/Aurangabad,+Maharashtra/@19.8762,75.3433,12z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c1f5f5f5f5f5:0x1e7b8c0f3c2c4a6f!8m2!3d19.8762!4d75.3433!16s%2Fg%2F11c1k2n2f8?entry=ttu",
     hotels: [
@@ -1666,7 +1645,7 @@ export const destinationsData = [
     name: "Lonavala",
     description: "Lonavala is a popular hill station known for its scenic landscapes, lush greenery, and beautiful waterfalls. It is a perfect getaway from Mumbai and Pune.",
     images: [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Lonavala.jpg/800px-Lonavala.jpg"
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/58/37/67/lohgarh-fort.jpg?w=300&h=300&s=1"
     ],
     googleMapLink: "https://www.google.com/maps/place/Lonavala,+Maharashtra/@18.7500,73.4060,12z/data=!3m1!4b1!4m6!3m5!1s0x3be7c6a7f5f5f5f5:0x1e7b8c0f3c2c4a6f!8m2!3d18.7500!4d73.4060!16s%2Fg%2F11c1k2n2f8?entry=ttu",
     hotels: [
@@ -1688,7 +1667,7 @@ export const destinationsData = [
     name: "Ratnagiri",
     description: "Ratnagiri is a coastal town known for its beautiful beaches, historical forts, and delicious Alphonso mangoes. It is a perfect destination for a relaxing vacation.",
     images: [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Ratnagiri_Beach.jpg/800px-Ratnagiri_Beach.jpg"
+      "https://lh3.googleusercontent.com/gps-proxy/ALd4DhFEa_wym1X765vimk4LdPywQ2lk45-aBJqnDPgcfjg0qlla7LNFjh0iVF-X00DLzoz98mCkYyYWYxrNruvcIYrG_D-Vra22KjPOFSA75kqH1Jh83XqnTrXVWZEEcdPdfukSjuJjKyKedFruVF84YyaxB46yDR2n2H4HyGNOWofWoOzpXUUNVbX8=w414-h240-k-no"
     ],
     googleMapLink: "https://www.google.com/maps/place/Ratnagiri,+Maharashtra/@16.9954,73.3002,12z/data=!3m1!4b1!4m6!3m5!1s0x3be7c6a7f5f5f5f5:0x1e7b8c0f3c2c4a6f!8m2!3d16.9954!4d73.3002!16s%2Fg%2F11c1k2n2f8?entry=ttu",
     hotels: [
