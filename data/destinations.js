@@ -1815,5 +1815,115 @@ export const destinationsData = [
       { name: "Phangrei Peak", description: "The highest peak in Ukhrul, offering breathtaking views and trekking opportunities.", bestTimeToVisit: "October to March", rating: 4.6, priceRange: "Free" }
     ]
   },
+  {
+    destinationId: 1,
+    state: "Meghalaya",
+    name: "Shillong",
+    description: "Shillong, the capital of Meghalaya, is known for its stunning landscapes, vibrant culture, and pleasant climate. It is often referred to as the 'Scotland of the East.'",
+    images: [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Shillong.jpg/800px-Shillong.jpg"
+    ],
+    googleMapLink: "https://www.google.com/maps/place/Shillong,+Meghalaya/@25.5788,91.8933,12z/data=!3m1!4b1!4m6!3m5!1s0x39e4a1f5f5f5f5f5:0x1e7b8c0f3c2c4a6f!8m2!3d25.5788!4d91.8933!16s%2Fg%2F11c1k2n2f8?entry=ttu",
+    hotels: [
+      { name: "Hotel Hill View", rating: 4.5, priceRange: "₹3000-₹6000", contact: "+91 9876543260" },
+      { name: "The Heritage Club", rating: 4.6, priceRange: "₹4000-₹8000", contact: "+91 9876543261" },
+      { name: "Hotel Pinewood", rating: 4.4, priceRange: "₹2000-₹4000", contact: "+91 9876543262" },
+      { name: "Hotel Shillong", rating: 4.3, priceRange: "₹1500-₹3000", contact: "+91 9876543263" }
+    ],
+    attractions: [
+      { name: "Umiam Lake", description: "A beautiful man-made lake surrounded by hills, perfect for boating and picnics.", bestTimeToVisit: "October to March", rating: 4.7, priceRange: "Free" },
+      { name: "Elephant Falls", description: "A stunning three-tiered waterfall located just outside Shillong, ideal for photography.", bestTimeToVisit: "October to March", rating: 4.6, priceRange: "₹20" },
+      { name: "Shillong Peak", description: "The highest point in Shillong, offering panoramic views of the city and surrounding hills.", bestTimeToVisit: "October to March", rating: 4.8, priceRange: "₹10" },
+      { name: "Don Bosco Centre for Indigenous Cultures", description: "A museum showcasing the rich cultural heritage of the indigenous tribes of Meghalaya.", bestTimeToVisit: "Year-round", rating: 4.5, priceRange: "₹50" }
+    ]
+  },
+  {
+    destinationId: 2,
+    state: "Meghalaya",
+    name: "Cherrapunji",
+    description: "Cherrapunji is known for being one of the wettest places on Earth, famous for its lush green landscapes, waterfalls, and living root bridges.",
+    images: [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Cherrapunji.jpg/800px-Cherrapunji.jpg"
+    ],
+    googleMapLink: "https://www.google.com/maps/place/Cherrapunji,+Meghalaya/@25.2986,91.5822,12z/data=!3m1!4b1!4m6!3m5!1s0x39e4a1f5f5f5f5f5:0x1e7b8c0f3c2c4a6f!8m2!3d25.2986!4d91.5822!16s%2Fg%2F11c1k2n2f8?entry=ttu",
+    hotels: [
+      { name: "Cherrapunji Holiday Resort", rating: 4.5, priceRange: "₹3000-₹6000", contact: "+91 9876543264" },
+      { name: "Sohra Plaza", rating: 4.4, priceRange: "₹2000-₹4000", contact: "+91 9876543265" },
+      { name: "Hotel Cherrapunji", rating: 4.6, priceRange: "₹4000-₹8000", contact: "+91 9876543266" },
+      { name: "The Bamboo Retreat", rating: 4.3, priceRange: "₹1500- ₹3000", contact: "+91 9876543267" }
+    ],
+    attractions: [
+      { name: "Nohkalikai Falls", description: "The tallest plunge waterfall in India, surrounded by stunning cliffs and lush greenery.", bestTimeToVisit: "October to March", rating: 4.8, priceRange: "Free" },
+      { name: "Living Root Bridges", description: "Unique bridges made from the roots of rubber trees, showcasing the ingenuity of local tribes.", bestTimeToVisit: "Year-round", rating: 4.7, priceRange: "Free" },
+      { name: "Mawsmai Cave", description: "A popular limestone cave known for its stunning formations and easy accessibility.", bestTimeToVisit: "October to March", rating: 4.6, priceRange: "₹50" },
+      { name: "Dawki River", description: "Famous for its crystal-clear waters, perfect for boating and enjoying the scenic beauty.", bestTimeToVisit: "October to March", rating: 4.9, priceRange: "Free" }
+    ]
+  },
+  {
+    destinationId: 3,
+    state: "Meghalaya",
+    name: "Mawlynnong",
+    description: "Mawlynnong is known as the cleanest village in Asia, famous for its eco-friendly practices and stunning natural beauty.",
+    images: [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Mawlynnong.jpg/800px-Mawlynnong.jpg"
+    ],
+    googleMapLink: "https://www.google.com/maps/place/Mawlynnong,+Meghalaya/@25.2986,91.5822,12z/data=!3m1!4b1!4m6!3m5!1s0x39e4a1f5f5f5f5f5:0x1e7b8c0f3c2c4a6f!8m2!3d25.2986!4d91.5822!16s%2Fg%2F11c1k2n2f8?entry=ttu",
+    hotels: [
+      { name: "Mawlynnong Eco Resort", rating: 4.5, priceRange: "₹3000-₹6000", contact: "+91 9876543268" },
+      { name: "The Mawlynnong Homestay", rating: 4.4, priceRange: "₹2000-₹4000", contact: "+91 9876543269" },
+      { name: "Mawlynnong Village Stay", rating: 4.6, priceRange: "₹4000-₹8000", contact: "+91 9876543270" },
+      { name: "Eco Village Resort", rating: 4.3, priceRange: "₹1500-₹3000", contact: "+91 9876543271" }
+    ],
+    attractions: [
+      { name: "Living Root Bridge", description: "A stunning example of nature's engineering, this bridge is a must-see for visitors.", bestTimeToVisit: "Year-round", rating: 4.7, priceRange: "Free" },
+      { name: "Sky View Point", description: "A viewpoint offering breathtaking views of the surrounding hills and valleys.", bestTimeToVisit: "October to March", rating: 4.6, priceRange: "Free" },
+      { name: "Bamboo Huts", description: "Traditional bamboo huts that showcase the local architecture and culture.", bestTimeToVisit: "Year-round", rating: 4.5, priceRange: "Free" },
+      { name: "Mawlynnong Village Tour", description: "A guided tour of the village to learn about its eco-friendly practices and culture.", bestTimeToVisit: "Year-round", rating: 4.8, priceRange: "₹100" }
+    ]
+  },
+  {
+    destinationId: 4,
+    state: "Meghalaya",
+    name: "Jowai",
+    description: "Jowai is known for its scenic beauty, rich culture, and historical significance, making it a great destination for travelers.",
+    images: [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Jowai.jpg/800px-Jowai.jpg"
+    ],
+    googleMapLink: "https://www.google.com/maps/place/Jowai,+Meghalaya/@25.5000,92.5000,12z/data=!3m1! 4b1!4m6!3m5!1s0x39e4a1f5f5f5f5f5:0x1e7b8c0f3c2c4a6f!8m2!3d25.5000!4d92.5000!16s%2Fg%2F11c1k2n2f8?entry=ttu",
+    hotels: [
+      { name: "Hotel Jowai", rating: 4.5, priceRange: "₹3000-₹6000", contact: "+91 9876543272" },
+      { name: "Jowai Inn", rating: 4.4, priceRange: "₹2000-₹4000", contact: "+91 9876543273" },
+      { name: "Pynursla Hotel", rating: 4.6, priceRange: "₹4000-₹8000", contact: "+91 9876543274" },
+      { name: "The Jowai Heritage", rating: 4.3, priceRange: "₹1500-₹3000", contact: "+91 9876543275" }
+    ],
+    attractions: [
+      { name: "Nartiang Monoliths", description: "A site featuring a collection of ancient monoliths, showcasing the region's rich history.", bestTimeToVisit: "October to March", rating: 4.7, priceRange: "Free" },
+      { name: "Thadlaskein Lake", description: "A serene lake surrounded by lush greenery, perfect for picnics and relaxation.", bestTimeToVisit: "October to March", rating: 4.6, priceRange: "Free" },
+      { name: "Jowai Church", description: "A beautiful church known for its stunning architecture and peaceful ambiance.", bestTimeToVisit: "Year-round", rating: 4.5, priceRange: "Free" },
+      { name: "Shangpung Village", description: "A traditional village offering insights into the local culture and lifestyle.", bestTimeToVisit: "Year-round", rating: 4.4, priceRange: "Free" }
+    ]
+  },
+  {
+    destinationId: 5,
+    state: "Meghalaya",
+    name: "Nongstoin",
+    description: "Nongstoin is known for its picturesque landscapes, vibrant culture, and as a gateway to explore the natural beauty of Meghalaya.",
+    images: [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Nongstoin.jpg/800px-Nongstoin.jpg"
+    ],
+    googleMapLink: "https://www.google.com/maps/place/Nongstoin,+Meghalaya/@25.5000,91.6000,12z/data=!3m1!4b1!4m6!3m5!1s0x39e4a1f5f5f5f5f5:0x1e7b8c0f3c2c4a6f!8m2!3d25.5000!4d91.6000!16s%2Fg%2F11c1k2n2f8?entry=ttu",
+    hotels: [
+      { name: "Nongstoin Hotel", rating: 4.5, priceRange: "₹3000-₹6000", contact: "+91 9876543276" },
+      { name: "Pynursla Inn", rating: 4.4, priceRange: "₹2000-₹4000", contact: "+91 9876543277" },
+      { name: "Hotel Meghalaya", rating: 4.6, priceRange: "₹4000-₹8000", contact: "+91 9876543278" },
+      { name: "Nongstoin Heritage Hotel", rating: 4.3, priceRange: "₹1500-₹3000", contact: "+91 9876543279" }
+    ],
+    attractions: [
+      { name: "Kyllang Rock", description: "A massive granite rock formation offering stunning views and trekking opportunities.", bestTimeToVisit: "October to March", rating: 4.7, priceRange: "Free" },
+      { name: "Nongstoin Waterfall", description: "A beautiful waterfall surrounded by lush greenery, perfect for nature lovers.", bestTimeToVisit: "June to September", rating: 4.6, priceRange: "Free" },
+      { name: "Shnongpdeng Village", description: "A serene village known for its crystal-clear waters and adventure activities.", bestTimeToVisit: "October to March", rating: 4.8, priceRange: "Free" },
+      { name: "Nongstoin Church", description: "A historic church known for its beautiful architecture and peaceful ambiance.", bestTimeToVisit: "Year-round", rating: 4.5, priceRange: "Free" }
+    ]
+  },
   
 ];
